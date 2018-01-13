@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "103016056805",
+    "firebase_url": "https://clarifaidemo.firebaseio.com",
+    "project_id": "clarifaidemo",
+    "storage_bucket": "clarifaidemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103016056805:android:184e491d3fecea56",
+        "android_client_info": {
+          "package_name": "com.clarifai.demo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103016056805-lngm3u6tpbq8k1gn00ej0vl35ujv0p8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clarifai.demo.app",
+            "certificate_hash": "9918b3f00c24cab50385d58cbd01a3ee51bace7f"
+          }
+        },
+        {
+          "client_id": "103016056805-rouqcprephrrgasqaemdmj4r37075s29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Lcta94dbiJzmuMTwEf1uKPzS37jA3bs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103016056805-rouqcprephrrgasqaemdmj4r37075s29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
